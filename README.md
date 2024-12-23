@@ -16,7 +16,7 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
 
 3. **Procesamiento automático**:
    - Carga automáticamente el archivo de audio desde la carpeta `transcribir`.
-   - Verifica si el archivo está en formato `.mp3` o `.wav`.
+   - Verifica si el archivo está en formato `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`.
 
 4. **Ejecución en Google Colab**:
    - Diseñado para ejecutarse en Google Colab, con un enlace directo al archivo de Colab en tu Drive.
@@ -36,7 +36,7 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
    ```bash
    pip install librosa matplotlib numpy scipy
 
-3. **Crea la carpeta EVIDENCIAS:**: Coloca tu archivo de audio (.mp3, .m4a, .flac, .ogg o .wav) en la carpeta EVIDENCIAS.
+3. **Crea la carpeta EVIDENCIAS:**: Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS.
 
 **Créditos**
 Este proyecto fue desarrollado por José R. Leonett. Si tienes alguna duda o sugerencia, no dudes en contactarme.
