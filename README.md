@@ -1,6 +1,6 @@
 # **Análisis de Audio con FFT y Espectrograma**
 
-Este proyecto es un programa en Python que permite analizar un archivo de audio mediante la **Transformada Rápida de Fourier (FFT)** y la generación de un **espectrograma**. El programa es ideal para analizar archivos de audio en formato `.mp3` o `.wav`, y está diseñado para ejecutarse de manera ordenada en **Google Colab**.
+Este proyecto es un programa en Python que permite analizar un archivo de audio mediante la **Transformada Rápida de Fourier (FFT)** y la generación de un **espectrograma**. El programa es ideal para analizar archivos de audio en formato  `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`, y está diseñado para ejecutarse de manera ordenada en **Google Colab**.
 
 ---
 
