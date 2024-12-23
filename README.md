@@ -2,6 +2,8 @@
 
 Este proyecto es un programa en Python que permite analizar un archivo de audio mediante la **Transformada Rápida de Fourier (FFT)** y la generación de un **espectrograma**. El programa es ideal para analizar archivos de audio en formato  `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`, y está diseñado para ejecutarse de manera ordenada en **Google Colab**.
 
+![image](https://drive.google.com/uc?export=view&id=1-4nfcJj0xPyVQ82EkxGZbPWw6L2Vy44o)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75)
 ---
 
@@ -19,9 +21,6 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
    - Carga automáticamente el archivo de audio desde la carpeta `transcribir`.
    - Verifica si el archivo está en formato `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`.
 
-4. **Resultados del Análisis**:
-
-![image](https://forensedigital.gt/foto.jpg)
 ---
 
 ## **Cómo usar el programa**
