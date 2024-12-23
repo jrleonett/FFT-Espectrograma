@@ -62,9 +62,15 @@ Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carp
   El archivo ESTÁ transcodificado. El codec 'pcm_s16le' NO coincide con el formato 'wav'.
   ```
 ---
-
-**Créditos**
-- Este proyecto fue desarrollado por José R. Leonett. Si tienes alguna duda o sugerencia, no dudes en contactarme.
+# Cómo Citar Este Trabajo
+Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
+```bash
+@article{joséRLeonett,
+  title={Análisis FFT y Espectrográfico de audios},
+  author={José R. Leonett},
+  year={2024}
+}
+```
 
 **Licencia**
 - Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
