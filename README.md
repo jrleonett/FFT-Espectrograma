@@ -32,18 +32,39 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
 
-2. **Instala las dependencias:**:
+2. **Instala las dependencias:**
    ```bash
    pip install librosa matplotlib numpy scipy
 
-3. **Crea la carpeta EVIDENCIAS:**: Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS.
+3. **Crea la carpeta EVIDENCIAS:**
 
+Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS.
+
+4. **Previo a darte el analisis espectografico y de fft, veras esto:**
+  ```bash
+  Procesando archivo: EVIDENCIAS/Homografia.wav
+  Información técnica del archivo:
+
+  [FORMAT]
+   filename=EVIDENCIAS/Homografia.wav
+   nb_streams=1
+   nb_programs=0
+   format_name=wav
+   format_long_name=WAV / WAVE (Waveform Audio)
+   start_time=N/A
+   duration=616.360000
+   size=29585324
+   bit_rate=384000
+   probe_score=99
+  [/FORMAT]
+
+  Análisis de transcodificación:
+  El archivo ESTÁ transcodificado. El codec 'pcm_s16le' NO coincide con el formato 'wav'.
+  ```
+---
 
 **Créditos**
-
-Este proyecto fue desarrollado por José R. Leonett. Si tienes alguna duda o sugerencia, no dudes en contactarme.
-
+- Este proyecto fue desarrollado por José R. Leonett. Si tienes alguna duda o sugerencia, no dudes en contactarme.
 
 **Licencia**
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
