@@ -19,8 +19,8 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
    - Carga automáticamente el archivo de audio desde la carpeta `transcribir`.
    - Verifica si el archivo está en formato `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`.
 
-4. **Ejecución en Google Colab**:
-   - Diseñado para ejecutarse en Google Colab, con un enlace directo al archivo de Colab en tu Drive.
+4. **Resultados del Análisis**:
+
 
 ---
 
