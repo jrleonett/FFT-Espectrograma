@@ -21,7 +21,7 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
 
 4. **Resultados del Análisis**:
 
-
+![image](https://forensedigital.gt/foto.jpg)
 ---
 
 ## **Cómo usar el programa**
