@@ -47,7 +47,7 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 
 3. **Crea la carpeta llamada EVIDENCIAS:**
 
-Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS y lurego pulsa el siguiente paso para que arroje  el análisis en pantalla y en formato ZIP.
+Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS y luego, pulsa el siguiente paso para que arroje el análisis en pantalla y en formato ZIP.
 
 
 4. **Previo a darte el analisis espectografico y de fft, veras esto:**
