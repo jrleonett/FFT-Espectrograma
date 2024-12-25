@@ -6,7 +6,7 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75)
 ---
-# Transformada Rápida de Fourier (FFT) y Espectrograma
+# Transformada Rápida de Fourier (FFT) y Espectrograma.
 
 La **Transformada Rápida de Fourier (FFT)** es un algoritmo eficiente para calcular la **Transformada de Fourier Discreta (DFT)**, que convierte una señal del dominio del tiempo al dominio de la frecuencia. En términos simples, descompone una señal en sus componentes de frecuencia, permitiendo analizar qué frecuencias están presentes y con qué intensidad.
 
@@ -16,7 +16,7 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 - El eje **vertical** representa la frecuencia.
 - El **color o intensidad** indica la magnitud de cada componente frecuencial.
 
-## **Características principales**
+## **Características principales.**
 
 1. **Transformada Rápida de Fourier (FFT)**:
    - Calcula la FFT del audio para analizar las frecuencias dominantes.
@@ -32,9 +32,9 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 
 ---
 
-## **Cómo usar el programa**
+## **Cómo usar el programa.**
 
-### **1. Configuración del entorno**
+### **1. Configuración del entorno.**
 
 1. **Clona el repositorio**:
    ```bash
@@ -72,7 +72,7 @@ Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carp
   El archivo ESTÁ transcodificado. El codec 'pcm_s16le' NO coincide con el formato 'wav'.
   ```
 ---
-# Cómo citar este trabajo
+# Cómo citar este trabajo.
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
 @article{joséRLeonett,
@@ -82,5 +82,5 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 }
 ```
 
-**Licencia**
+**Licencia.**
 - Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
