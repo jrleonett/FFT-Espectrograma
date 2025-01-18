@@ -8,9 +8,6 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
   <a href="https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="margin-right: 120px;">
   </a>
-  <a href="https://colab.research.google.com/drive/19M8MrKN91bQtQXqTEoiXEsNGXIq1jXqC">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
-  </a>
 </p>
 
 ---
@@ -57,6 +54,32 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 
 Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS y luego, pulsa el siguiente paso para que arroje el análisis en pantalla y en formato ZIP.
 
+---
+
+## **Interfaz con Gradio.**
+El programa utiliza Gradio para proporcionar una interfaz gráfica fácil de usar. Gradio permite cargar archivos de audio, procesarlos y mostrar los resultados en tiempo real.
+
+**Funcionalidades de la interfaz:**
+- Carga de archivos: Permite subir archivos de audio en formatos compatibles (.mp3, .wav, etc.).
+- Procesamiento: Realiza el análisis de FFT y genera el espectrograma del archivo de audio.
+- Resultados: Muestra las gráficas de la forma de onda, FFT y espectrograma, junto con información técnica del archivo.
+
+**Cómo usar la interfaz:**
+- Ejecuta el programa en tu entorno local o en Colab.
+- Sube un archivo de audio utilizando el botón de carga.
+- Espera a que el programa procese el archivo y muestre los resultados.
+
+<p align="center">
+  <img src="https://github.com/jrleonett/FFT-Espectrograma/blob/main/congradio.png?raw=true">
+</p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/19M8MrKN91bQtQXqTEoiXEsNGXIq1jXqC">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+  </a>
+</p>
+
+----
 
 4. **Previo a darte el analisis espectografico y de fft, veras esto:**
   ```bash
