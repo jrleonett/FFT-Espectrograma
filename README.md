@@ -4,7 +4,15 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
 
 ![image](https://drive.google.com/uc?export=view&id=1-4nfcJj0xPyVQ82EkxGZbPWw6L2Vy44o)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75)
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="margin-right: 120px;">
+  </a>
+  <a href="https://colab.research.google.com/drive/19M8MrKN91bQtQXqTEoiXEsNGXIq1jXqC">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+  </a>
+</p>
+
 ---
 # Transformada Rápida de Fourier (FFT) y Espectrograma.
 
