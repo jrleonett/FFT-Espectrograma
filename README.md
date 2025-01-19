@@ -1,4 +1,7 @@
 # **Análisis de audio con FFT y Espectrograma**
+![GitHub](https://img.shields.io/badge/Licencia-MIT-blue)
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 Este proyecto es un programa en Python que permite analizar un archivo de audio mediante la **Transformada Rápida de Fourier (FFT)** y la generación de un **espectrograma**. El programa es ideal para analizar archivos de audio en formato  `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`, y está diseñado para ejecutarse de manera ordenada en **Google Colab** o en **Gradio**. Desarrollado por **José R. Leonett** para la comunidad de Peritos Forenses Digitales de Guatemala www.forensedigital.gt 
 
