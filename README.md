@@ -1,5 +1,5 @@
 # **Análisis de audio con FFT y Espectrograma**
-![GitHub](https://img.shields.io/badge/Licencia-MIT-blue)
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
