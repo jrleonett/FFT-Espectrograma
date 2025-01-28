@@ -10,6 +10,7 @@ Este proyecto es un programa en Python que permite analizar un archivo de audio 
 <p align="center">
   <img src="https://github.com/jrleonett/FFT-Espectrograma/blob/main/congradio.png?raw=true">
 </p>
+👉 <strong>Pruébalo aquí</strong>: <a href="https://huggingface.co/spaces/leonett/FFT-Espectrograma">FFT-Espectrograma</a>
 
 
 ---
@@ -41,8 +42,7 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 
 ## **Cómo usar el programa.**
 
-# **Interfaz con Gradio ewn Hugginface**
-El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de usar. Gradio permite cargar archivos de audio, procesarlos y mostrar los resultados en tiempo real. La aplicación está alojada en **Hugging Face Spaces** para que puedas usarla directamente desde tu navegador.
+El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de usar. Gradio permite cargar archivos de audio, procesarlos y mostrar los resultados en tiempo real. La aplicación está alojada en **Hugging Face Spaces** para que puedas usarla directamente desde tu navegador sin necesidad de instalar nada.
 
 ## **Funcionalidades de la interfaz**
 - **Carga de archivos**: Permite subir archivos de audio en formatos compatibles (.mp3, .wav, etc.).
@@ -50,7 +50,7 @@ El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de
 - **Resultados**: Muestra las gráficas de la forma de onda, FFT y espectrograma, junto con información técnica del archivo.
 
 ## **Cómo usar la interfaz**
-1. Accede a la aplicación en Hugging Face Spaces. 👉 **Pruébalo aquí**:: [https://huggingface.co/spaces/leonett/FFT-Espectrograma](https://huggingface.co/spaces/leonett/FFT-Espectrograma).
+1. Accede a la aplicación en Hugging Face Spaces. 👉 <strong>Pruébalo aquí</strong>: <a href="https://huggingface.co/spaces/leonett/FFT-Espectrograma">FFT-Espectrograma</a>
 2. Sube un archivo de audio utilizando el botón de carga.
 3. Espera a que el programa procese el archivo y muestre los resultados.
 
@@ -58,7 +58,7 @@ El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de
 
 ----
 
-4. **Previo a darte el analisis espectografico y de fft, veras esto:**
+## **Previo a darte el analisis espectografico y de fft, veras esto:**
   ```bash
   Procesando archivo: EVIDENCIAS/archivo_audio.audio
   Información técnica del archivo:
