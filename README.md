@@ -2,19 +2,15 @@
 ![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
 Este proyecto es un programa en Python que permite analizar un archivo de audio mediante la **Transformada Rápida de Fourier (FFT)** y la generación de un **espectrograma**. El programa es ideal para analizar archivos de audio en formato  `.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`, y está diseñado para ejecutarse de manera ordenada en **Google Colab** o en **Gradio**. Desarrollado por **José R. Leonett** para la comunidad de Peritos Forenses Digitales de Guatemala www.forensedigital.gt 
 
-![image](https://drive.google.com/uc?export=view&id=1-4nfcJj0xPyVQ82EkxGZbPWw6L2Vy44o)
-
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1lm9JrLej9Hl1wmHz5W-hrKvel5DmXF11#scrollTo=_JQu9bGiVt75">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="margin-right: 120px;">
-  </a>
+  <img src="https://github.com/jrleonett/FFT-Espectrograma/blob/main/congradio.png?raw=true">
 </p>
+
 
 ---
 # Transformada Rápida de Fourier (FFT) y Espectrograma.
@@ -45,27 +41,8 @@ Un **espectrograma** es una representación visual de cómo las frecuencias de u
 
 ## **Cómo usar el programa.**
 
-### **1. Configuración del entorno.**
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
-
-2. **Instala las dependencias:**
-   ```bash
-   pip install librosa matplotlib numpy scipy
-
-3. **Crea la carpeta llamada EVIDENCIAS:**
-
-Coloca tu archivo de audio (`.mp3`, `.m4a`, `.flac`, `.ogg` o `.wav`) en la carpeta EVIDENCIAS y luego, pulsa el siguiente paso para que arroje el análisis en pantalla y en formato ZIP.
-
----
-
-# **Interfaz con Gradio**
+# **Interfaz con Gradio ewn Hugginface**
 El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de usar. Gradio permite cargar archivos de audio, procesarlos y mostrar los resultados en tiempo real. La aplicación está alojada en **Hugging Face Spaces** para que puedas usarla directamente desde tu navegador.
-
-👉 **Pruébalo aquí**: [https://huggingface.co/spaces/leonett/FFT-Espectrograma](https://huggingface.co/spaces/leonett/FFT-Espectrograma)
 
 ## **Funcionalidades de la interfaz**
 - **Carga de archivos**: Permite subir archivos de audio en formatos compatibles (.mp3, .wav, etc.).
@@ -73,13 +50,11 @@ El programa utiliza **Gradio** para proporcionar una interfaz gráfica fácil de
 - **Resultados**: Muestra las gráficas de la forma de onda, FFT y espectrograma, junto con información técnica del archivo.
 
 ## **Cómo usar la interfaz**
-1. Accede a la aplicación en Hugging Face Spaces: [https://huggingface.co/spaces/leonett/FFT-Espectrograma](https://huggingface.co/spaces/leonett/FFT-Espectrograma).
+1. Accede a la aplicación en Hugging Face Spaces. 👉 **Pruébalo aquí**:: [https://huggingface.co/spaces/leonett/FFT-Espectrograma](https://huggingface.co/spaces/leonett/FFT-Espectrograma).
 2. Sube un archivo de audio utilizando el botón de carga.
 3. Espera a que el programa procese el archivo y muestre los resultados.
 
-<p align="center">
-  <img src="https://github.com/jrleonett/FFT-Espectrograma/blob/main/congradio.png?raw=true">
-</p>
+![image](https://drive.google.com/uc?export=view&id=1-4nfcJj0xPyVQ82EkxGZbPWw6L2Vy44o)
 
 ----
 
